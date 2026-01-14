@@ -10,7 +10,7 @@
 
 ***
 <div align="justify">
-  Firstly, you can find the run scripts (model parameter files) for each dataset in the AFBMixer-Results/results-log folder. To maximize reproducibility, you can copy the parameters from these files to the corresponding locations in the run.py file.
+  Firstly, you can find the run scripts (model parameter files) for each dataset in the AFBMixer-Results/results-log folder. To maximize reproducibility, you can copy the parameters from these files to the corresponding locations in the run.py file.<br><br>
 
   Secondly, the models folder contains the implementation code files for the AFBMixer model.
 
