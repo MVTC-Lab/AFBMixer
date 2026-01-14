@@ -5,7 +5,7 @@
 </div>
 
 ---
-# AFBMixer Model
+## AFBMixer Model
 <div align="center"><img src="./AFBMixer.svg" alt="AFBMixer" width="800" height="800" align="center"></div>
 
 ***
