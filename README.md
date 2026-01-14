@@ -4,9 +4,8 @@ Photovoltaic (PV) power forecasting is critical for grid-connected dispatch, pow
 
 ---
 # AFBMixer Model
-<img src="./AFBMixer.png" alt="AFBMixer" width="700" height="700>
+![Uploading AFBMixer.png…]()
 
----
 
 ***
 （1）You can find the run scripts (model parameter files) for each dataset in the AFBMixer-Results/results-log folder. To maximize reproducibility, you can copy the parameters from these files to the corresponding locations in the run.py file.
