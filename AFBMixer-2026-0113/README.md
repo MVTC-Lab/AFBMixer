@@ -11,6 +11,7 @@
 ---
 
 ***
+<div align="justify">
 （1）You can find the run scripts (model parameter files) for each dataset in the AFBMixer-Results/results-log folder. To maximize reproducibility, you can copy the parameters from these files to the corresponding locations in the run.py file.
 
 （2）The models folder contains the implementation code files for the AFBMixer model.
@@ -18,6 +19,8 @@
 （3）You need to modify the relevant paths in run.py and exp_data.py under the experiments folder according to your file paths (this is quite straightforward).
 
 （4）Torch version is 2.0.0, Python version is 3.8. Required dependencies are listed in requirements.txt. The installation command is as follows (replace 'packname' with the desired package): {pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 'packname'}.
+</div>
+
 
 
 
