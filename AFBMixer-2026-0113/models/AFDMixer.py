@@ -320,7 +320,7 @@ def build_output_Mixer(input_dim, pred_len,
     
     return nn.Sequential(*layers)
 
-# ------------------------------ 核心模型FDBMixer ------------------------------
+# ------------------------------ 核心模型AFBMixer ------------------------------
 class AFDMixer(nn.Module):
     def __init__(self, input_dim, output_dim, seq_len, pred_len,
                  num_freq_bands=4, freq_embed_dim=32,  # 使用优化后的默认参数
